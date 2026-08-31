@@ -1,1 +1,11 @@
+body{
+  .grande{ font-size: 90px;};
+  .mediana{ font-size: 60px;};
+  .chica{ font-size: 35px};
 
+font-family: 'Times New Roman';
+
+background-color: #8cff98;
+
+
+}
