@@ -3,9 +3,23 @@ body{
   .mediana{ font-size: 60px;};
   .chica{ font-size: 35px};
 
-font-family: 'Times New Roman';
+font-family: cursive;
 
 background-color: #a7fc92;
 
 
+
+margin: 0;
+
+}
+
+
+
+.tarjeta{
+
+  border: 1px solid #000000;
+  padding: 15px;
+  margin-bottom: 30px;
+  border-radius: 20px;
+  background-color: #76b965;
 }
