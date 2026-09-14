@@ -1,7 +1,4 @@
 body{
-  .grande{ font-size: 90px;};
-  .mediana{ font-size: 60px;};
-  .chica{ font-size: 35px};
 
 font-family: cursive;
 
@@ -10,12 +7,14 @@ background-color: #a7fc92;
 
 
 margin: 10px;
-
+  
+  margin-left: 10px;
 }
 
 
 
 .tarjeta{
+  
 
   border: 1px solid #000000;
   padding: 15px;
@@ -23,3 +22,6 @@ margin: 10px;
   border-radius: 20px;
   background-color: #76b965;
 }
+  .grande{ font-size: 90px;}
+  .mediana{ font-size: 60px;}
+  .chica{ font-size: 35px}
